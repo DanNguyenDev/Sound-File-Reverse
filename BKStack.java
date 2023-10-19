@@ -6,7 +6,6 @@ package com.mycompany.backmasking;
 
 /**
  *
- * @author danielnguyen
  */
 public interface BKStack {
     
