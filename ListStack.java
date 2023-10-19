@@ -6,7 +6,7 @@ package com.mycompany.backmasking;
 
 /**
  *
- * @author danielnguyen
+
  */
 
 // Add in the import statement so the program can throw an exception
